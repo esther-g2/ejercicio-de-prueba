@@ -1,24 +1,3 @@
 # ejercicio-de-prueba
 Ejercicio de prueba antes de proceder a crear una página web
 Este es el repositorio que voy a utilizar para crear una página web
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Título de la página</title>
-    <style>
-        body {
-            background-color: pink;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <!-- Contenido visible de la página -->
-    <h1>Título Principal</h1>
-    <p>Contenido de la página web.</p>
-    <h2>Esther Gómez Sedeño</h2>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/4BJWCTbZEAg" title="Video de YouTube" frameborder="0" allowfullscreen></iframe>
-</body>
-</html>   
